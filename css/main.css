@@ -68,9 +68,10 @@ body {
 }
 
 #header .logo img {
-	width: 85px;
-	height: 85px;
+	width: 90px;
+	height: 90px;
 	margin-left: 40%;
+	border-radius: 100%;
 }
 
 #header .social {
